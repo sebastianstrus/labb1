@@ -13,6 +13,10 @@
 		7D9D23551E2AA03D007E9B9D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D9D23531E2AA03D007E9B9D /* Main.storyboard */; };
 		7D9D23571E2AA03D007E9B9D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D9D23561E2AA03D007E9B9D /* Assets.xcassets */; };
 		7D9D235A1E2AA03D007E9B9D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D9D23581E2AA03D007E9B9D /* LaunchScreen.storyboard */; };
+		7DBFB8DD1E2C18D8000EDDBB /* sebastian_strus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7DBFB8DC1E2C18D8000EDDBB /* sebastian_strus.jpg */; };
+		7DBFB8E11E2C1D31000EDDBB /* malta.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7DBFB8DE1E2C1D31000EDDBB /* malta.jpg */; };
+		7DBFB8E21E2C1D31000EDDBB /* rom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7DBFB8DF1E2C1D31000EDDBB /* rom.jpg */; };
+		7DBFB8E31E2C1D31000EDDBB /* tenerife.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7DBFB8E01E2C1D31000EDDBB /* tenerife.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +30,10 @@
 		7D9D23561E2AA03D007E9B9D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D9D23591E2AA03D007E9B9D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D9D235B1E2AA03D007E9B9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7DBFB8DC1E2C18D8000EDDBB /* sebastian_strus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sebastian_strus.jpg; sourceTree = SOURCE_ROOT; };
+		7DBFB8DE1E2C1D31000EDDBB /* malta.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = malta.jpg; sourceTree = SOURCE_ROOT; };
+		7DBFB8DF1E2C1D31000EDDBB /* rom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rom.jpg; sourceTree = SOURCE_ROOT; };
+		7DBFB8E01E2C1D31000EDDBB /* tenerife.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tenerife.jpg; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +74,10 @@
 				7D9D23561E2AA03D007E9B9D /* Assets.xcassets */,
 				7D9D23581E2AA03D007E9B9D /* LaunchScreen.storyboard */,
 				7D9D235B1E2AA03D007E9B9D /* Info.plist */,
+				7DBFB8DC1E2C18D8000EDDBB /* sebastian_strus.jpg */,
+				7DBFB8DE1E2C1D31000EDDBB /* malta.jpg */,
+				7DBFB8DF1E2C1D31000EDDBB /* rom.jpg */,
+				7DBFB8E01E2C1D31000EDDBB /* tenerife.jpg */,
 				7D9D234A1E2AA03D007E9B9D /* Supporting Files */,
 			);
 			path = Labb1;
@@ -137,8 +149,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7DBFB8E21E2C1D31000EDDBB /* rom.jpg in Resources */,
+				7DBFB8E11E2C1D31000EDDBB /* malta.jpg in Resources */,
+				7DBFB8DD1E2C18D8000EDDBB /* sebastian_strus.jpg in Resources */,
 				7D9D235A1E2AA03D007E9B9D /* LaunchScreen.storyboard in Resources */,
 				7D9D23571E2AA03D007E9B9D /* Assets.xcassets in Resources */,
+				7DBFB8E31E2C1D31000EDDBB /* tenerife.jpg in Resources */,
 				7D9D23551E2AA03D007E9B9D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -307,6 +323,7 @@
 				7D9D23601E2AA03D007E9B9D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
